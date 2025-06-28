@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# [*] Danieli Fiel
+# Danieli Fiel
 
 [🎓] Estudante de Desenvolvimento de Software Multiplataforma na FATEC  
 [💻] Apaixonada por tecnologia, educação e projetos com impacto social  
@@ -24,4 +24,7 @@
 - [💡] Projeto KHORA: iniciativa voltada ao ensino de lógica de programação de forma lúdica e acessível para iniciantes, utilizando metodologias educacionais interativas.
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,git,php,figma,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&theme=light)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=,git,figma,mysql&theme=light)](https://skillicons.dev)
+
