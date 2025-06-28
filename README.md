@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**dvnxfx/dvnxfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [*] Danieli Fiel
 
-Here are some ideas to get you started:
+[🎓] Estudante de Desenvolvimento de Software Multiplataforma na FATEC  
+[💻] Apaixonada por tecnologia, educação e projetos com impacto social  
+[🌱] Atualmente estudando: PHP, JavaScript e MySQL  
+[📚] Foco em projetos com acessibilidade, sustentabilidade e inovação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## [*] Habilidades
+
+- HTML, CSS, JavaScript, PHP  
+- Git & GitHub  
+- Banco de Dados MySQL  
+- Power BI e análise de dados  
+
+---
+
+## [*] Projetos em andamento
+
+- [⚙️] Plataforma AURA: sistema de apoio à revisão sistemática com uso de Inteligência Artificial e Processamento de Linguagem Natural (PLN), focado em otimizar análises científicas e educacionais.  
+- [💡] Projeto KHORA: iniciativa voltada ao ensino de lógica de programação de forma lúdica e acessível para iniciantes, utilizando metodologias educacionais interativas.
+
+---
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,git,php,figma,mysql&theme=light)](https://skillicons.dev)
