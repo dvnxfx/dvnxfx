@@ -26,6 +26,6 @@
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=light)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=mysq,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,php&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
