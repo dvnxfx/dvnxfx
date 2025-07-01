@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Danieli Fiel
 
@@ -24,7 +24,8 @@
 - Projeto KHORA: iniciativa voltada ao ensino de lógica de programação de forma lúdica e acessível para iniciantes, utilizando metodologias educacionais interativas.
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=light)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=git,figma,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysq,phpl&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
