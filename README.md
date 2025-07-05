@@ -1,31 +1,51 @@
-
-
-# Danieli Fiel
-
-- Estudante de Desenvolvimento de Software Multiplataforma na FATEC  
-- Apaixonada por tecnologia, educação e projetos com impacto social  
-- Atualmente estudando: PHP, JavaScript e MySQL  
-- Foco em projetos com acessibilidade, sustentabilidade e inovação  
+<h2 align="center">hey there!<br>i’m Dani, welcome to my learning playground.<br> pull up a chair, sip some tea (or coffee, no judgment), and enjoy the journey! ☕🚀</h2>
 
 ---
 
-## Habilidades
+## 👩‍💻 About Me
 
-- HTML, CSS, JavaScript, PHP  
-- Git & GitHub  
-- Banco de Dados MySQL  
-- Power BI e análise de dados  
+- Multiplatform Software Development student at FATEC  
+- Passionate about technology, education, and social impact projects  
+- Currently studying PHP, JavaScript, and MySQL  
+- Focused on projects with accessibility, sustainability, and innovation  
+
+---
+
+### 🖥️ Front-End
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap&theme=light" />
+  </a>
+</p>
+
+### ⚙️ Back-End
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql&theme=light" />
+  </a>
+</p>
+
+### 🎨 Design & UX
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,adobexd&theme=light" />
+  </a>
+</p>
 
 ---
 
-## Projetos em andamento
+## 📬 Contact
 
-- Plataforma AURA: sistema de apoio à revisão sistemática com uso de Inteligência Artificial e Processamento de Linguagem Natural (PLN), focado em otimizar análises científicas e educacionais.  
-- Projeto KHORA: iniciativa voltada ao ensino de lógica de programação de forma lúdica e acessível para iniciantes, utilizando metodologias educacionais interativas.
+<div align="center">
+  <a href="https://www.linkedin.com/in/danieli-fiel-reis-704914202/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:danielifiel99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=light)](https://skillicons.dev) 
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,php&theme=light)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
