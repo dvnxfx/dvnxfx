@@ -6,7 +6,7 @@
 
 - Multiplatform Software Development student at FATEC  
 - Passionate about technology, education, and social impact projects  
-- Currently studying PHP, JavaScript, and MySQL  
+- Currently studying JAVA, JavaScript, JSON and MySQL.  
 - Focused on projects with accessibility, sustainability, and innovation  
 
 ---
