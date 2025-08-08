@@ -4,10 +4,10 @@
 
 ## 👩‍💻 About Me
 
-- Multiplatform Software Development student at FATEC  
-- Passionate about technology, education, and social impact projects  
+- Multiplatform Software Development student at FATEC.  
+- Passionate about technology, education, and social impact projects.  
 - Currently studying JAVA, JavaScript, JSON and MySQL.  
-- Focused on projects with accessibility, sustainability, and innovation  
+- Focused on projects with accessibility, sustainability, and innovation. 
 
 ---
 
