@@ -34,14 +34,13 @@
 
 📬 Contact
 
-<div align="center">
+<p align="center">
   <a href="mailto:danielifiel99@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFF&labelColor=202020" alt="Gmail badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/danieli-fiel-reis-704914202/" target="_blank">
+  </a> <a href="https://www.linkedin.com/in/danieli-fiel-reis-704914202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFF&labelColor=202020" alt="LinkedIn badge" />
   </a>
-</div>
+</p>
 
 
 
