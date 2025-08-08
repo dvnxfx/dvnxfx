@@ -2,7 +2,7 @@
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 - Multiplatform Software Development student at FATEC.  
 - Passionate about technology, education, and social impact projects.  
@@ -11,41 +11,29 @@
 
 ---
 
-### 🖥️ Front-End
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF" alt="CSS3 badge"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=FFF" alt="Tailwind CSS badge"/>
-  <img src="https://img.shields.io/badge/CSS Modules-000000?style=for-the-badge&logo=CSS Modules&logoColor=FFF" alt="CSS Modules badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFF" alt="JavaScript badge"/>
-</p>
-
-### ⚙️ Back-End
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFF" alt="NestJS badge"/>
-</p>
-
-### 🎨 Design & UX
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFF" alt="Figma badge"/>
-</p>
-
-### 🛠️ Ferramentas & SO
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFF" alt="Notion badge"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFF" alt="Jira badge"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFF" alt="Ubuntu badge"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=FFF" alt="Windows badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFF" alt="Git badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFF" alt="GitHub badge"/>
-</p>
+🖥️ Front-End
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFF" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=FFF" /> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=FFF" /> <img src="https://img.shields.io/badge/CSS Modules-000000?style=for-the-badge&logo=CSS Modules&logoColor=FFF" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFF" /> </a> </p>
 
 ---
 
-## 📬 Contact
+⚙️ Back-End
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=FFF" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFF" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFF" /> </a> </p>
+
+---
+
+🛠️ Ferramentas & IDEs
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFF" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFF" /> <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=FFF" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFF" /> </a> </p>
+
+---
+
+🎨 Design & Produtividade
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFF" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFF" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=FFF" /> </a> </p>
+💻 Sistemas Operacionais
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFF" /> <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=FFF" /> </a> </p> 
+
+---
+
+📬 Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danieli-fiel-reis-704914202/" target="_blank">
