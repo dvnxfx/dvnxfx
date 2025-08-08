@@ -13,11 +13,7 @@
 
 ### 🖥️ Front-End
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap&theme=light" />
-  </a>
-</p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind&theme=light" /> </a> </p>
 
 ### ⚙️ Back-End
 
