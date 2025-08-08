@@ -13,7 +13,12 @@
 
 ### 🖥️ Front-End
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind&theme=light" /> </a> </p>
+<p align="center">
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFF)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFF)
+</p>
 
 ### ⚙️ Back-End
 
