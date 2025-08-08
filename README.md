@@ -1,4 +1,4 @@
-<h2>hey there!<br>i’m Dani, welcome to my learning playground.<br> pull up a chair, sip some coffee (or tea, no judgment), and enjoy the journey! ☕🚀</h2>
+<h2 class="text-align">hey there!<br>i’m Dani, welcome to my learning playground.<br> pull up a chair, sip some coffee (or tea, no judgment), and enjoy the journey! ☕🚀</h2>
 
 ---
 
