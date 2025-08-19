@@ -42,6 +42,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvnxfx&show_icons=true&theme=dark&title_color=70D600&text_color=8A2BE2&icon_color=E6C200" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnxfx&layout=compact&langs_count=7&theme=dark&title_color=70D600&text_color=8A2BE2&icon_color=E6C200" />
+</p>
+
+---
+
 📬 Contact
 
 <p align="center">
